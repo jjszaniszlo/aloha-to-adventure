@@ -9713,11 +9713,6 @@ hash = "ace2b470981f950cd04f22d9dbd8e57fc8a3e3059f282f36b720ed02a640da0e"
 metafile = true
 
 [[files]]
-file = "mods/macaws-byg-bwg.pw.toml"
-hash = "0f6304d214a2a9958365f9b34219d586a4c7be8853c6b43f03077f7b6429782a"
-metafile = true
-
-[[files]]
 file = "mods/macaws-doors.pw.toml"
 hash = "ea9af51413113483ba002f9827a66653b184363c68d6280009677df1fe171afa"
 metafile = true
