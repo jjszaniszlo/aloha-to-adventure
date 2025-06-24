@@ -9242,7 +9242,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "configureddefaults/config/cull-less-leaves.json"
-hash = "e3dd6b55ce679b9c3f6ffd6d113607297ff4c37a7c17a563493d914fe76800f3"
+hash = "625117af02de403230e839988686ab341e1465833326af081fd1dfe6a9b9c9b5"
 
 [[files]]
 file = "configureddefaults/config/dynamic_fps.json"
