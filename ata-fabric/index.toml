@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "9720ba394c44a7eb766d9e2c7687db9f51a681f98b2ddea58c80e8a1c2ddffda"
+hash = "10f73f0c66847443aacad111508b1b327dd1e6433a91f0a8440d39a9fe0746cf"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
@@ -9300,11 +9300,6 @@ metafile = true
 [[files]]
 file = "mods/abstract.pw.toml"
 hash = "9b8983a8357054fff38814976ba4e2f20cfaa226f41cf0a52b2db407451a14b8"
-metafile = true
-
-[[files]]
-file = "mods/advancementinfo.pw.toml"
-hash = "bb6c349471139b104a3d8001650ecaee747b596e1f5ca865157a8026e8182f61"
 metafile = true
 
 [[files]]
