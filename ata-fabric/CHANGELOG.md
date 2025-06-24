@@ -1,5 +1,10 @@
 # Changelog
 
+## [1.2.1](https://github.com/jjszaniszlo/aloha-to-adventure/compare/ata-fabric-v1.2.0...ata-fabric-v1.2.1) (2025-06-24)
+
+### * Fixes
+* **ata-fabric/rei:** Fix collapsible categories config being in an incorrect location. 
+
 ## [1.2.0](https://github.com/jjszaniszlo/aloha-to-adventure/compare/ata-fabric-v1.1.0...ata-fabric-v1.2.0) (2025-06-24)
 
 
