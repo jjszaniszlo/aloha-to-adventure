@@ -9285,6 +9285,14 @@ file = "configureddefaults/config/modernfix-mixins.properties"
 hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
 
 [[files]]
+file = "configureddefaults/config/roughlyenoughitems/collapsible.json5"
+hash = "587702ed1fc20580e7f145d869a5eb6a24ea3bdafcf2b91cb74af9530a55cdaa"
+
+[[files]]
+file = "configureddefaults/config/roughlyenoughitems/config.json5"
+hash = "25a0a9684143cbf6df181898b523c8ae27dbeb60acf59b2939fdac1b5b768872"
+
+[[files]]
 file = "configureddefaults/config/sodium-extra-options.json"
 hash = "ad866ae48346be30d1c3c9f51246fb6b22f7b5579c3066089a1b1037dad2c2f5"
 
