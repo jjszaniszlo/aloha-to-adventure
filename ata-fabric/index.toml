@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "CHANGELOG.md"
-hash = "10f73f0c66847443aacad111508b1b327dd1e6433a91f0a8440d39a9fe0746cf"
+hash = "8168dfa9242e65d3d91b24a4b58968344019299f4233845d2ed4b3b0cfbb5f61"
 
 [[files]]
 file = "config/NoChatReports/NCR-Common.json"
@@ -21,12 +21,24 @@ file = "config/betterendisland-fabric-1_20.toml"
 hash = "3176d374e420b1dedbfb28b88c3f7e5e47870a4f37f5148dfb4f24196ca93cbc"
 
 [[files]]
+file = "config/citresewn.json"
+hash = "1f722a777772b302d690a36720de758ed6641f2916f6ddd440ecc9f69e9bcbc7"
+
+[[files]]
 file = "config/combatroll/server.json5"
 hash = "f53869909c10171b3bc38f51a92dee9445bfaf01bd047086db09ce8bf4fc71e4"
 
 [[files]]
+file = "config/iris.properties"
+hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "902d70dddbf8cfb18eca0ce1b0b31a341b18b2f4876f32d93e42fa2010a3e0c7"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
 
 [[files]]
 file = "config/modmenu.json"
@@ -9209,6 +9221,14 @@ file = "config/puzzle.json"
 hash = "699ae019f639baaeb390a7c4237b44a46c534cd5e9ad67d9ea60f99b365df3e7"
 
 [[files]]
+file = "config/roughlyenoughitems/collapsible.json5"
+hash = "587702ed1fc20580e7f145d869a5eb6a24ea3bdafcf2b91cb74af9530a55cdaa"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "c1dd03a5be5003042d7345d8cadcd298bcd0a82e840318ca59243338072fb5f1"
+
+[[files]]
 file = "configureddefaults/config/NoChatReports/NCR-Client.json"
 hash = "c44198334349d7c9ac881faa56545b0cfdd64e77093c5a6675202284c04fe5aa"
 
@@ -9231,10 +9251,6 @@ hash = "ed8a0e734f2bce566fb41271981283de55cb8e46814e1f1e71d68e617b03b01f"
 [[files]]
 file = "configureddefaults/config/cem.conf"
 hash = "51519ddcc6823cbe1f22b8977fe103eb8c01b1872899634ddc06814f3ef2da9b"
-
-[[files]]
-file = "configureddefaults/config/citresewn.json"
-hash = "1f722a777772b302d690a36720de758ed6641f2916f6ddd440ecc9f69e9bcbc7"
 
 [[files]]
 file = "configureddefaults/config/craftedcore/cache/patreons.txt"
@@ -9261,10 +9277,6 @@ file = "configureddefaults/config/fastquit.toml"
 hash = "17225e085e6759210cec7e829e00c8c90f9c5d38714835cb5da9c98398842f7d"
 
 [[files]]
-file = "configureddefaults/config/iris.properties"
-hash = "3f5878535aacbfea79ae6da2f9142963f5662af3141692f0ba945767c9096ce5"
-
-[[files]]
 file = "configureddefaults/config/lambdabettergrass.toml"
 hash = "06daed44c187f773ce9dae4b19e42440166c9b233798af660e044f34bafc262e"
 
@@ -9279,14 +9291,6 @@ hash = "c5cfbedea6c0c3aca560916ac013e92fda113e42355d29da5a6a92c507d3e60d"
 [[files]]
 file = "configureddefaults/config/midnightlib.json"
 hash = "edfb9b696e5e9f87b957c84e395bcc242bbb5df82e5fb2aff75b07063f742e89"
-
-[[files]]
-file = "configureddefaults/config/modernfix-mixins.properties"
-hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
-
-[[files]]
-file = "configureddefaults/config/roughlyenoughitems/collapsible.json5"
-hash = "587702ed1fc20580e7f145d869a5eb6a24ea3bdafcf2b91cb74af9530a55cdaa"
 
 [[files]]
 file = "configureddefaults/config/roughlyenoughitems/config.json5"
@@ -9307,10 +9311,6 @@ hash = "c6314b80d2faac3798d7dc59b76c0250ddd1ba52cc778c6e60213870f50f663d"
 [[files]]
 file = "configureddefaults/config/sodiumextras-client.toml"
 hash = "31128d2309aa920b7d17e675dd3c40c03db1cb1593ddfd35bb1935ae32743eb0"
-
-[[files]]
-file = "configureddefaults/config/waystones-common.toml"
-hash = "c1dd03a5be5003042d7345d8cadcd298bcd0a82e840318ca59243338072fb5f1"
 
 [[files]]
 file = "configureddefaults/options.txt"
