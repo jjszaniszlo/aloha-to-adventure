@@ -1,0 +1,11 @@
+{
+    "disabledIntegrations": [
+        "cullleaves",
+        "borderlessmining",
+        "colormatic"
+    ],
+    "enablePuzzleButton": false,
+    "debugMessages": false,
+    "checkUpdates": false,
+    "showPuzzleInfo": false
+}

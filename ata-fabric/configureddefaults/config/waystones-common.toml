@@ -1,0 +1,24 @@
+[client]
+
+[compatibility]
+
+displayWaystonesOnJourneyMap = false
+preferJourneyMapIntegration = false
+
+[cooldowns]
+
+[inventoryButton]
+
+[restrictions]
+
+[worldGen]
+customWaystoneNames = [ "Mike Hawk's Mall", "Uranus", "Your Mom's Basement" ]
+nameGenerationMode = "MIXED"
+spawnInVillages = true
+worldGenStyle = "BIOME"
+
+[xpCost]
+blocksPerXpLevel = 1200
+dimensionalWarpXpCost = 3
+xpCostPerLeashed = 300
+

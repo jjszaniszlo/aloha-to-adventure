@@ -1,0 +1,46 @@
+	[embeddiumextras.general]
+		fullscreen = "BORDERLESS"
+		fpsDisplay = "ON"
+		fpsDisplayGravity = "RIGHT"
+		fpsDisplaySystem = "OFF"
+		fpsDisplayMargin = 24
+		fpsDisplayShadow = false
+
+	[embeddiumextras.quality]
+		fog = true
+		cloudsHeight = 192
+		chunkFadeSpeed = "SLOW"
+
+		[embeddiumextras.quality.darkness]
+			mode = "OFF"
+			enableOnOverworld = true
+			enableOnNether = false
+			netherFogBright = 0.5
+			enableOnEnd = false
+			endFogBright = 0.5
+			valueByDefault = false
+			dimensionWhitelist = []
+			enableOnNoSkyLight = false
+			enableBlockLightOnly = false
+			affectedByMoonPhase = true
+			fullMoonBright = 0.25
+			newMoonBright = 0.0
+
+	[embeddiumextras.performance]
+		hideJREI = false
+		fontShadows = true
+			[embeddiumextras.performance.distanceCulling.tileEntities]
+				enable = true
+				cullingMaxDistanceX = 4096
+				cullingMaxDistanceY = 32
+				whitelist = ["waterframes:*"]
+
+			[embeddiumextras.performance.distanceCulling.entities]
+				enable = true
+				cullingMaxDistanceX = 4096
+				cullingMaxDistanceY = 32
+				whitelist = ["minecraft:ghast", "minecraft:ender_dragon", "iceandfire:*", "create:*"]
+
+	[embeddiumextras.others]
+		borderlessAttachModeOnF11 = "OFF"
+		fastLanguageReload = true
