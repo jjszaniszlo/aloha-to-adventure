@@ -6,6 +6,7 @@ A modpack centered around adventure.
 
 1) Download from the latest release.
 2) Import into a Modrinth compatible launcher.  I recommend and use `Prism`.
+3) Ensure atleast 10GB of ram is allocated to Java.
 
 ## 🚀 Performance Enhancements
 
