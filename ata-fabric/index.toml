@@ -9241,6 +9241,10 @@ file = "configureddefaults/config/craftedcore/cache/patreons.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "configureddefaults/config/cull-less-leaves.json"
+hash = "e3dd6b55ce679b9c3f6ffd6d113607297ff4c37a7c17a563493d914fe76800f3"
+
+[[files]]
 file = "configureddefaults/config/dynamic_fps.json"
 hash = "ae927ece1c73f351955247dd8258e4fa606c1315f7587c625eaa5518ec05e953"
 
@@ -9282,7 +9286,7 @@ hash = "3c5317882a50941e2384b9739ec3aa688f297105691c9d8d577936ad29c1d575"
 
 [[files]]
 file = "configureddefaults/config/sodium-extra-options.json"
-hash = "e7aab4dd6d718fc3f5a10d8c06aa1746c96985994c8fdba733b27b2f001c78ef"
+hash = "ad866ae48346be30d1c3c9f51246fb6b22f7b5579c3066089a1b1037dad2c2f5"
 
 [[files]]
 file = "configureddefaults/config/sodium-options.json"
@@ -9294,19 +9298,15 @@ hash = "c6314b80d2faac3798d7dc59b76c0250ddd1ba52cc778c6e60213870f50f663d"
 
 [[files]]
 file = "configureddefaults/config/sodiumextras-client.toml"
-hash = "f878fcb3ed8bc11041ae47acd4dc5ab10b5695f6fa6b14fa04bf4c09476fd19b"
-
-[[files]]
-file = "configureddefaults/config/walkers.json5"
-hash = "4f54ed2b39be3b043ff8c2f7de718455ef1660270a2146b47e97d7766e36dfde"
+hash = "31128d2309aa920b7d17e675dd3c40c03db1cb1593ddfd35bb1935ae32743eb0"
 
 [[files]]
 file = "configureddefaults/config/waystones-common.toml"
-hash = "54994535f700b3c91920a6f71a0cdc29da932828a9663ec9975469b1fcd4a764"
+hash = "c1dd03a5be5003042d7345d8cadcd298bcd0a82e840318ca59243338072fb5f1"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "aca4c0a14e08f086581185704d404eec4e95fa88835fbe280965e619b2f5dc55"
+hash = "e1862d4b378a31d3800f81571d063f11e13519e37b6f27fa6fc79bf9d3767615"
 
 [[files]]
 file = "icon.png"
@@ -10164,6 +10164,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "421b267f441e7be3feefa686191e5b363929ecb39ddd5f2ff5b515db4b169891"
+metafile = true
+
+[[files]]
+file = "resourcepacks/dark-everywhere.pw.toml"
+hash = "2c7ca7d1f4ef299cf2568ce6a06b09736c7ddc0daec6a6dd016468e4a9bdba82"
 metafile = true
 
 [[files]]
