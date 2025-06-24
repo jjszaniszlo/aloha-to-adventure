@@ -9329,12 +9329,12 @@ metafile = true
 
 [[files]]
 file = "mods/almanac.pw.toml"
-hash = "6317bd1e6013059a52574d7002e744cd1d662ba345d019d75e37d384fd6060b0"
+hash = "d8577a489a8e9c90a4207931ebba22d2ef81bacfb68e794032d78952173e95f8"
 metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
+hash = "8d2b3cea2b5e883efcf899d9094c6f7fb247af4d57c42eabbac320347721a06e"
 metafile = true
 
 [[files]]
@@ -9684,7 +9684,7 @@ metafile = true
 
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
-hash = "37421d14755957856ddafed04020b2b23f902f6f4c410fb5bdfc956959f99fba"
+hash = "f20b40399c36c6189c7436923eb814890c508a34d955cfd045b3ad5df6f9a315"
 metafile = true
 
 [[files]]
@@ -9699,7 +9699,7 @@ metafile = true
 
 [[files]]
 file = "mods/lmd.pw.toml"
-hash = "62b5f6133f799c95d48314eef3e353b8689477f075e9f604a2566de03d593563"
+hash = "34b09a15f7842e62815678ed519432c922c10773ed2bcaade898054e0b676de8"
 metafile = true
 
 [[files]]
