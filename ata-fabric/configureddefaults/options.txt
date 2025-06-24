@@ -42,8 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Chat Reporting Helper.zip","Moonlight Mods Dynamic Assets","convenientdecor:hydrated_farmland","file/Fast Better Grass.zip"]
-incompatibleResourcePacks:["file/Chat Reporting Helper.zip"]
+resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default","file/Chat Reporting Helper.zip","file/LowOnFire_1.20.1.zip","Moonlight Mods Dynamic Assets","convenientdecor:hydrated_farmland","file/Fast Better Grass.zip"]
 lastServer:
 lang:en_us
 soundDevice:""
