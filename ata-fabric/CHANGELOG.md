@@ -2,11 +2,8 @@
 
 ## [1.2.1](https://github.com/jjszaniszlo/aloha-to-adventure/compare/ata-fabric-v1.2.0...ata-fabric-v1.2.1) (2025-06-24)
 
-
-### ⛭ Miscellaneous
-
-* **main:** release 1.1.0 ([0555778](https://github.com/jjszaniszlo/aloha-to-adventure/commit/0555778d3c9fec9a6f8bbf9889408ba7ab511db9))
-* **main:** release 1.2.1 ([76585dd](https://github.com/jjszaniszlo/aloha-to-adventure/commit/76585dd55078b9409539fbfc6ce202b6f23bd3b3))
+### * Fixes
+* **ata-fabric/rei:** Fix collapsible categories config being in an incorrect location. 
 
 ## [1.2.0](https://github.com/jjszaniszlo/aloha-to-adventure/compare/ata-fabric-v1.1.0...ata-fabric-v1.2.0) (2025-06-24)
 
