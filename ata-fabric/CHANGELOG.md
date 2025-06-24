@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/jjszaniszlo/aloha-to-adventure/compare/ata-fabric-v1.2.0...ata-fabric-v1.1.0) (2025-06-24)
+
+
+### ⛭ Miscellaneous
+
+* **main:** release 1.1.0 ([0555778](https://github.com/jjszaniszlo/aloha-to-adventure/commit/0555778d3c9fec9a6f8bbf9889408ba7ab511db9))
+
 ## [1.2.0](https://github.com/jjszaniszlo/aloha-to-adventure/compare/ata-fabric-v1.1.0...ata-fabric-v1.2.0) (2025-06-24)
 
 
